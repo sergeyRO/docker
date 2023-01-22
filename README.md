@@ -4,4 +4,4 @@
 
 # RUN
 Вополните команду 
-"docker -d -p 8000:80 nginx_image"
+"docker run -d -p 8000:80 nginx_image"
